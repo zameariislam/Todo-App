@@ -1,0 +1,10 @@
+#taskInput {
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    border-radius: 5px;
+
+}

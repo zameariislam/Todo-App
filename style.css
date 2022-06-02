@@ -55,3 +55,7 @@ body {
 .options i {
     cursor: pointer;
 }
+
+.app::-webkit-scrollbar {
+    width: 0 !important;
+}
